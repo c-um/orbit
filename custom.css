@@ -1,3 +1,6 @@
+body { 
+  background-color: #17181f; 
+}
 .polaroid ab {
   margin: 55px 75px 30px;
   padding: 15px 15px 50px;
@@ -20,3 +23,5 @@
   -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
   box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
 }
+
+.code { color: white; }
